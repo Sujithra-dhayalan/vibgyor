@@ -1,0 +1,45 @@
+#vannam {
+  margin: 50px;
+  width: 450px;
+  height: 450px;
+}
+
+#bucks {
+  margin: 50px;
+  width: 600px;
+  height: 100px;
+}
+
+button {
+  direction: flex;
+  justify-content: space-between;
+  height: 30px;
+  width: 60px;
+  background-color: rgb(134, 188, 206);
+  border-radius: 20px;
+  border: 0;
+  color: white;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#full {
+  direction: flex;
+  align-items: center;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
